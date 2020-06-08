@@ -10,4 +10,4 @@ teste commmit 4
 
 teste commmit 5
 
-teste commmit 7
+teste commmit 6
