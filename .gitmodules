@@ -1,0 +1,3 @@
+[submodule "app/Models"]
+	path = app/Models
+	url = ../git-submodule.git
