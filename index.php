@@ -4,12 +4,4 @@ teste commmit 1
 
 teste commmit 2
 
-teste commmit 3
-
-teste commmit 4
-
-teste commmit 5
-
-teste commmit 6
-
-teste commmit 7
+teste commmit  3
